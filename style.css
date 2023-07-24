@@ -1,3 +1,18 @@
-.body{
+*{
     margin: 0;
 }
+
+h1{
+    color: purple;
+}
+
+.image-banner{
+
+    width: 100%;
+}
+
+.image-banner img{
+
+    width: 100%;
+}
+
